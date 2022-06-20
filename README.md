@@ -6,12 +6,9 @@ Estudante de Desenvolvimento Web Full Stack  na [Trybe](https://www.betrybe.com/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinagui&theme=tokyonight)
 
-
-### 
-
-
 <img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/>
 </a>
+
 <img height="30" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/>
 </a>
 
