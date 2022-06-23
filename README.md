@@ -14,6 +14,8 @@ Estudante de Desenvolvimento Web Full Stack  na [Trybe](https://www.betrybe.com/
 </a>](https://github.com/pinagui)
 [<img height="30" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/>
 </a>](https://github.com/pinagui)
+[<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+</a>](https://github.com/pinagui)
 
 ___
 
