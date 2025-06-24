@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Guilherme Pina ✌️  
-Estudante de Desenvolvimento Web Full Stack  na [Trybe](https://www.betrybe.com/)! 😀 ✌️ 
+Desenvoledor Front End! 😀 ✌️
+Estudano Análise e Desenvolvimento de Sistemas na Metodista 
 
 
 [![Guilherme Pina GitHub stats](https://github-readme-stats.vercel.app/api?username=pinagui&show_icons=true&theme=tokyonight)](https://github.com/pinagui)
