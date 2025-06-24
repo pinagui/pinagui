@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Guilherme Pina ✌️  
 Desenvoledor Front End! 😀 ✌️
-Estudano Análise e Desenvolvimento de Sistemas na Metodista 
+Estudano Análise e Desenvolvimento de Sistemas na Faculdade Metodista 
 
 
 [![Guilherme Pina GitHub stats](https://github-readme-stats.vercel.app/api?username=pinagui&show_icons=true&theme=tokyonight)](https://github.com/pinagui)
