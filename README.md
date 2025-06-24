@@ -2,24 +2,6 @@
 Desenvoledor Front End! 😀 ✌️
 Estudano Análise e Desenvolvimento de Sistemas na Faculdade Metodista 
 
-
-[![Guilherme Pina GitHub stats](https://github-readme-stats.vercel.app/api?username=pinagui&show_icons=true&theme=tokyonight)](https://github.com/pinagui)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinagui&theme=tokyonight)](https://github.com/pinagui)
-
-
-### 
-
-
-[<img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/>
-</a>](https://github.com/pinagui)
-[<img height="30" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/>
-</a>](https://github.com/pinagui)
-[<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-</a>](https://github.com/pinagui)
-[<img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
-</a>](https://github.com/pinagui)
-
 ___
 
 ### Redes Sociais
